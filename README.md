@@ -48,4 +48,4 @@ We're using a popular Python library called Matplotlib to create the following t
 
 ## Document
 
-[Copyright 2020 Google LLC](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/linear_regression_with_a_real_dataset.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=linear_regression_real_tf2-colab&hl=en#scrollTo=wDlWLbfkJtvu)
+Google LLC 2020
